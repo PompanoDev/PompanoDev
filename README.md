@@ -43,7 +43,8 @@ Aku belajar setiap hari, menulis kode, dan membangun proyek-proyek seru sambil t
 [![trophy](https://github-profile-trophy.vercel.app/?username=PompanoDev&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![PompanoDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=PompanoDev&show_icons=true&theme=tokyonight)
----
+
+-----
 
 ### 🌐 Temui Aku di Sini!
 - TikTok: [`@pompano.dev`](https://www.tiktok.com/@pompano.dev)
@@ -55,5 +56,3 @@ Aku belajar setiap hari, menulis kode, dan membangun proyek-proyek seru sambil t
 > “Belajar bukan soal cepat, tapi soal terus bergerak. Aku akan terus berjalan, sekecil apa pun langkahku hari ini.”
 
 Terima kasih sudah mampir! Jangan lupa ⭐ repo kalau kamu suka proyek-proyekku 🙌
-
----
