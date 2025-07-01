@@ -39,7 +39,6 @@ Aku belajar setiap hari, menulis kode, dan membangun proyek-proyek seru sambil t
 
 > 💻 Coding bukan hanya tentang teknologi — ini tentang kreativitas, keberanian, dan keyakinan.
 
----
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PompanoDev&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -56,3 +55,5 @@ Aku belajar setiap hari, menulis kode, dan membangun proyek-proyek seru sambil t
 > “Belajar bukan soal cepat, tapi soal terus bergerak. Aku akan terus berjalan, sekecil apa pun langkahku hari ini.”
 
 Terima kasih sudah mampir! Jangan lupa ⭐ repo kalau kamu suka proyek-proyekku 🙌
+
+---
