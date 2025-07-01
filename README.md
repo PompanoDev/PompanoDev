@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/m/VTxubF9zn9gAAAAd/kaoru-hana-wa-rin-to-saku-waguri-kaoruko.gif" width="100%" />
 
-**Hi there! I'm Pompano 👋**  
+**Hi, I'm Abdul Rahmat — known online as PompanoDev 👋**  
 Seorang pelajar yang sedang berjuang mewujudkan mimpinya menjadi Fullstack Web Developer! 🚀  
 Aku belajar setiap hari, menulis kode, dan membangun proyek-proyek seru sambil terus berkembang.
 
