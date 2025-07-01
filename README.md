@@ -1,6 +1,6 @@
 # 👨‍💻 PompanoDev
 
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/penguin.svg" width="100px"/>
+![Profile views](https://komarev.com/ghpvc/?username=PompanoDev&color=blue)
 
 <img src="https://media1.tenor.com/m/VTxubF9zn9gAAAAd/kaoru-hana-wa-rin-to-saku-waguri-kaoruko.gif" width="100%" />
 
