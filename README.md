@@ -1,6 +1,6 @@
 # 👨‍💻 PompanoDev
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpjazc1NDB0ZmlheDh1bGZzMzUxeHd0YjBybTc3YzBpcWx4ODh6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPCSX4UhTnyYg1a/giphy.gif" width="100%" />
+<img src="https://tenor.com/search/waguri+kaoruko-gifs" width="100%" />
 
 **Hi there! I'm Pompano 👋**  
 Seorang pelajar yang sedang berjuang mewujudkan mimpinya menjadi Fullstack Web Developer! 🚀  
