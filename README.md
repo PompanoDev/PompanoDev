@@ -1,6 +1,6 @@
 # 👨‍💻 PompanoDev
 
-<img src="https://tenor.com/search/waguri+kaoruko-gifs" width="100%" />
+<img src="https://media1.tenor.com/m/VTxubF9zn9gAAAAd/kaoru-hana-wa-rin-to-saku-waguri-kaoruko.gif" width="100%" />
 
 **Hi there! I'm Pompano 👋**  
 Seorang pelajar yang sedang berjuang mewujudkan mimpinya menjadi Fullstack Web Developer! 🚀  
