@@ -1,5 +1,7 @@
 # 👨‍💻 PompanoDev
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpjazc1NDB0ZmlheDh1bGZzMzUxeHd0YjBybTc3YzBpcWx4ODh6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPCSX4UhTnyYg1a/giphy.gif" width="100%" />
+
 **Hi there! I'm Pompano 👋**  
 Seorang pelajar yang sedang berjuang mewujudkan mimpinya menjadi Fullstack Web Developer! 🚀  
 Aku belajar setiap hari, menulis kode, dan membangun proyek-proyek seru sambil terus berkembang.
@@ -30,12 +32,12 @@ Aku belajar setiap hari, menulis kode, dan membangun proyek-proyek seru sambil t
 
 ---
 
-### 📈 Tujuan Tahun Ini
-- [x] Mempelajari dasar-dasar HTML, CSS, JS
-- [ ] Bangun minimal 5 proyek nyata
-- [ ] Menjadi kontributor open source
-- [ ] Menghasilkan penghasilan pertama dari skill coding 💸
-- [ ] Membuat portofolio website pribadi
+### 🔥 Semangat & Prinsip
+> 💡 **"Konsistensi kecil lebih kuat daripada motivasi besar yang sebentar."**
+
+> ✨ "Kukira aku hanya anak biasa, tapi ternyata aku bisa menciptakan dunia lewat baris-baris kode."
+
+> 💻 Coding bukan hanya tentang teknologi — ini tentang kreativitas, keberanian, dan keyakinan.
 
 ---
 
