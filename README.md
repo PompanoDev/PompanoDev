@@ -1,6 +1,16 @@
 # 👨‍💻 PompanoDev
 
+# 👨‍💻 PompanoDev
+
 ![Profile views](https://komarev.com/ghpvc/?username=PompanoDev&color=blue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PompanoDev&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PompanoDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![PompanoDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=PompanoDev&show_icons=true&theme=tokyonight)
+
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/penguin.svg" width="100px"/>
 
 <img src="https://media1.tenor.com/m/VTxubF9zn9gAAAAd/kaoru-hana-wa-rin-to-saku-waguri-kaoruko.gif" width="100%" />
 
