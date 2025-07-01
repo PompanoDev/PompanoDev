@@ -1,5 +1,7 @@
 # 👨‍💻 PompanoDev
 
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/penguin.svg" width="100px"/>
+
 <img src="https://media1.tenor.com/m/VTxubF9zn9gAAAAd/kaoru-hana-wa-rin-to-saku-waguri-kaoruko.gif" width="100%" />
 
 **Hi, I'm Abdul Rahmat — known online as PompanoDev 👋**  
